@@ -1,2 +1,2 @@
 # Building-a-CNN-classifier-with-Pytorch
-build a convolutional neural network using Pytorch from scratch
+Build a convolutional neural network using Pytorch from scratch
